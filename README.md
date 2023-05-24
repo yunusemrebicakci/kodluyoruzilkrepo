@@ -13,6 +13,8 @@ git clone https://github.com/yunusemrebicakci/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 #Linux için:
+cd kodluyoruzilkrepo
+code .
 
 #Contributing
 
